@@ -12,4 +12,6 @@ $uploadlevelCallback = "uploadGJLevel21.php";
 $deletelevelCallback = "deleteGJLevelUser20.php";
 $scoresCallback = "getGJScores20.php";
 $creatorsCallback = "getGJCreators.php";
+$likeCallback = "likeGJItem21.php";
+$rateCallback = "rateGJStars20.php";
 ?>
