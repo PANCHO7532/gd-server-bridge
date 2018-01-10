@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 $server = "pi.michaelbrabec.cz:9010/a";
 $mapPacksCallback = "getGJMapPacks21.php";
 $getLevelsCallback = "getGJLevels21.php";
