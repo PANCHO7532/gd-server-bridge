@@ -3,7 +3,7 @@
 //Geometry Dash Server Bridge
 //Coded by PANCHO7532 - P7COMunications LTD S.A
 //Supported versions:
-// 1.0, 1.1, 1.7
+// 1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8
 //===================================================
 //Modify the "$server" var with the server url to connect (without the "http://")
 //Example: "www.boomlings.com/database"
