@@ -2,6 +2,12 @@
 ## Connect Geometry Dash clients to multiple servers.
 With this new script, you can connect to other Geometry Dash servers stored in the web without editing over and over the game files.
 
+## Features
+This project contains the following features:
+
+- The bridge supports client versions: 1.0 - 1.8 (in the future will it be more support)
+
+- You can connect to Robtop's server in older versions but don't works very well.
 ## Installing
 The installation its easy, the script doesn't needs SQL DB'S.
 
@@ -14,10 +20,10 @@ The installation its easy, the script doesn't needs SQL DB'S.
 ## Warnings
 - Dont put the files in the same folder of GDPS (if you have one configured put it in a different folder)
 
-- The support its only for 1.7 - older version at this time, maybe can be an partial support for 1.8 - 1.9 clients
-
 ## TO-DO List
 - Support for newer versions (probably all versions, idk)
+
+- In future releases maybe i will add an compatibility mode to force a good response in Robtop's Server. 
 
 Coded and Developed by PANCHO7532 - P7COMunications LTD S.A
 
