@@ -5,7 +5,7 @@ With this new script, you can connect to other Geometry Dash servers stored in t
 ## Features
 This project contains the following features:
 
-- The bridge supports client versions: 1.0 - 1.8 (in the future will it be more support)
+- The bridge supports client versions: 1.0 - 1.9 (in the future will it be more support)
 
 - You can connect to Robtop's server in older versions but don't works very well.
 ## Installing
